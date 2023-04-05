@@ -1,0 +1,58 @@
+header {
+    background:linear-gradient(to left, #1D3964,#580D0D);
+    background-blend-mode: multiply ;
+    width: 80%;
+    height: 137;
+    margin:0;
+padding: 0px;
+min-height: 10em;
+display: table-cell;
+vertical-align: middle;
+}
+
+.logo{
+    max-width: 100%;
+    height: auto;
+    opacity: 0.9;
+    margin:0;
+    
+  }
+    ul {
+      list-style: none; 
+      margin: 0; 
+      padding-left: 0;
+      margin-top: auto;
+      
+    }
+    a {
+      text-decoration: none;
+      color:#D4AF37;
+      font-size: 24px;
+    }
+
+    
+ 
+
+
+
+    li {
+        float:left;
+     margin-top: -70;
+      
+    }
+    .l1{
+      margin-left:1700;
+   
+    }
+.l4{
+    margin-left:320;
+   
+}
+.l2{margin-left:1200;
+}
+.l3{margin-left:650;
+}
+body{
+    margin:0;
+    
+  }
